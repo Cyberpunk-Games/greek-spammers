@@ -158,6 +158,7 @@ blacklist_from	iro@battlenet.gr
 blacklist_from	info@berlin-athen.eu
 blacklist_from	info@bestofferz.gr
 blacklist_from	news@betinus.com
+blacklist_from	info@betsi.gr
 blacklist_from	info@bexis-services.gr
 blacklist_from	newsletter@biblioasi.gr
 blacklist_from	newsletter@bigpoint.com
@@ -323,6 +324,7 @@ blacklist_from	info@elapare.gr
 blacklist_from	newsletter@elapare.gr
 blacklist_from	no-reply@elearningexpo.gr
 blacklist_from	natsi@eleni-natsi.gr
+blacklist_from	noreply@elepod.gr
 blacklist_from	jifo@elginindustries.com
 blacklist_from	newsletter@elladaonline.eu
 blacklist_from	wemixer@el-living.com
@@ -710,6 +712,7 @@ blacklist_from	secom@ip-com.gr
 blacklist_from	info@isbfinance.gr
 blacklist_from	doldem@ism.com.br
 blacklist_from	newsletter@isquare.gr
+blacklist_from	*@mmsg01.istrom.gr
 blacklist_from	sales@i-systems.eu
 blacklist_from	security.solutions@i-systems.gr
 blacklist_from	education@itec.edu
@@ -1008,6 +1011,7 @@ blacklist_from	noreply@pazaropoulos.gr
 blacklist_from	newsletter@pc-bonus.net
 blacklist_from	evep@pcci.gr
 blacklist_from	info@pcinfo.gr
+blacklist_from	marketing@pcinfo.gr
 blacklist_from	maria@pcmi.gr
 blacklist_from	info@pcneting.gr
 blacklist_from	info@pdahellas.gr
@@ -1239,6 +1243,7 @@ blacklist_from	info@webintel.gr
 blacklist_from	info@webtec.gr
 blacklist_from	therapynet@webtec-servers.com
 blacklist_from	webtec@webtec-servers.com
+blacklist_from	marketing@wedoo.gr
 blacklist_from	info@wellness-stores.eu
 blacklist_from	*@wesense.gr
 blacklist_from	verbund.pamg@westsa.gr
