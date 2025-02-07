@@ -1,4 +1,4 @@
-#2019041500
+#2022010300
 blacklist_from	giokas@10net.gr
 blacklist_from	info@11088.gr
 blacklist_from	Theofanis.Giotis@12pm.eu
@@ -23,6 +23,7 @@ blacklist_from	*@3dedge.eu
 blacklist_from	parts1@3t.gr
 blacklist_from	tzioras@3t.gr
 blacklist_from	info@40kymata.gr
+blacklist_from	akiskonst@4businesses.eu
 blacklist_from	lzoulinaki@5edro.gr
 blacklist_from	enimerotiko@64free.gr
 blacklist_from	newsletter@787-e.net
@@ -202,6 +203,7 @@ blacklist_from	hightravel@cometogreece.com.gr
 blacklist_from	send@cometogreece.com.gr
 blacklist_from	noreply@companynews.smartmarketing.gr
 blacklist_from	sales10@computermind.gr
+blacklist_from	info@conicontraining.com
 blacklist_from	sales@connectaxweb.gr
 blacklist_from	france1@constructivubum.fr
 blacklist_from	newsletter@consulting-learning.eu
